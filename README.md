@@ -66,7 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-How to run this project in your pc
+##How to run this project in your pc
 
 Cloning laravel project from github
 Run git clone <my-cool-project>
